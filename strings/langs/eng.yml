@@ -75,7 +75,7 @@ admin_34 : "⛔️ Gagal mencari aliran saat ini."
 
 # Start
 start_1 : "❤️ Terima kasih telah memasukkan saya ke {0}.\n{1} masih hidup.\n\nUntuk bantuan atau bantuan apa pun, periksa grup dan channel dukungan kami."
-start_2 : "👋🏻 Halo, Nama saya {0}.\n\nSaya bot telegram streaming dengan beberapa fitur berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu untuk menambahkan saya ke Grup Anda."
+start_2 : ""
 start_3 : "Selamat datang di {0}\n\nSaya memerlukan **izin admin** untuk bekerja dengan baik.\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
 start_4 : "Pemilik {0}[{1}] baru saja bergabung dengan obrolan Anda."
 start_5 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
@@ -83,7 +83,7 @@ start_6 : "❗️ **Diperlukan Supergrup/Grup Publik** ️\n\nHarap ubah **grup*
 start_7 : "**Daftar Hitam Obrolan**\n\nObrolan Anda telah dimasukkan dalam daftar hitam oleh Bot. Harap minta Pengguna Sudo untuk memasukkan obrolan ke daftar putih terlebih dahulu. Periksa [Sudolist dari sini]({0})"
 
 # Help
-help_1 : "Klik tombol di bawah untuk informasi lebih lanjut. Jika Anda menghadapi masalah dalam perintah, Anda dapat menghubungi pemilik bot saya atau bertanya dalam obrolan dukungan.\n\nSemua perintah dapat digunakan dengan: /"
+help_1 : ""
 help_2 : "Hubungi saya di PM untuk bantuan."
 
 # Settings
@@ -246,22 +246,22 @@ UNBAN_BUTTON : "🗑 Unban Asisten"
 L_B_1 : "🚀 Lihat Lirik Sekarang"
 
 # Start
-S_B_1 : "🗒 Perintah"
-S_B_2 : "🔧 Pengaturan"
-S_B_3 : "📨 Group"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💾 Repository"
-S_B_7 : "👨‍💻 Pemilik Bot"
-S_B_8 : "🗂 Menu Perintah"
+S_B_1 : ""
+S_B_2 : ""
+S_B_3 : ""
+S_B_4 : ""
+S_B_5 : ""
+S_B_6 : ""
+S_B_7 : ""
+S_B_8 : ""
 
 #Help 
-H_B_1 : "👨🏻‍✈️ Perintah Admin"
-H_B_2 : "▶️ PMainkan Perintah"
-H_B_3 : "🤖 Perintah Bot"
-H_B_4 : "🗃 Perintah Ekstra"
-H_B_5 : "🗑 Tutup"
-H_B_6 : "🦸🏻‍♂️ Perintah SudoUser"
+H_B_1 : ""
+H_B_2 : ""
+H_B_3 : ""
+H_B_4 : ""
+H_B_5 : ""
+H_B_6 : ""
 
 #PlayMode
 PM_B_1 : "Putar Langsung"
