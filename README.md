@@ -25,4 +25,4 @@ Press Ctrl + C  once you are done with editing vars and type :wq to save .env or
 
 12. dash start
 
-CTRL A + D
+13. CTRL A + D
